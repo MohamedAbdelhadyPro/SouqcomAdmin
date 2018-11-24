@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "449892763668",
+    "firebase_url": "https://souqcomadmin.firebaseio.com",
+    "project_id": "souqcomadmin",
+    "storage_bucket": "souqcomadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449892763668:android:e5d9dff4cfe2cbf6",
+        "android_client_info": {
+          "package_name": "io.socket.com.example.mohamedabdelhady.tasks.souqcomadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449892763668-p3gb2ai3ghelktugcf27lloc98agaoev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.socket.com.example.mohamedabdelhady.tasks.souqcomadmin",
+            "certificate_hash": "c3a21ef3bf5e0cbb6780abd7f8b766f2ed0188b1"
+          }
+        },
+        {
+          "client_id": "449892763668-e38ke5bqjub01f8jioktgit6vmpplm59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq1Cgp--O7W8zKijEMFvDyHebGbB-K0tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449892763668-e38ke5bqjub01f8jioktgit6vmpplm59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
